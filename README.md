@@ -7,7 +7,7 @@ Files structure
 ```shell
 M44TMD_Repository
 ├── code
-|   ├── dataloader.py
+│   ├── mri_dataloader.py
 │   ├── train.py
 │   └── test.py
 ├── data
